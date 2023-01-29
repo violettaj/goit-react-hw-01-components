@@ -1,0 +1,30 @@
+/* .statistics {
+
+}
+
+.title {
+
+} */
+
+.stat-list {
+list-style: none;
+display: flex;
+flex-direction: row;
+gap:30px;
+}
+
+ .item {
+display: flex;
+flex-direction: column;
+}
+.item:first-child {
+    background-color: aquamarine;
+}
+/*
+.label {
+
+}
+
+.percentage {
+
+} */
