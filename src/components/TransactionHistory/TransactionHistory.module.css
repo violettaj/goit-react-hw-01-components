@@ -1,0 +1,17 @@
+
+.transaction-thead {
+background-color: rgb(78, 194, 240);
+text-transform: uppercase;
+color: aliceblue;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+gap: 100px;
+padding: 20px;
+}
+.transaction-tbody {
+display: flex;
+flex-direction: row;
+gap: 100px;
+justify-content: space-around;
+}

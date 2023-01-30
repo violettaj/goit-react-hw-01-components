@@ -4,6 +4,9 @@
 }
 
 .title {
+margin-left: 120px;
+text-transform:uppercase;
+color: rgb(136, 136, 136);
 } 
 
 .stat-list {
@@ -21,15 +24,17 @@ align-items: center;
 width: 60px;
 height: 50px;
 margin: 0;
+background-color: random;
+border-width: 1px;
+border-color: black;
+border-style: solid;
 }
-.item:first-child {
-    background-color: aquamarine;
-}
+
 
 .label {
 margin-top: 5px;
 }
 
 .percentage {
-
+font-size: 20px;
 } 
